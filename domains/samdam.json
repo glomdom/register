@@ -1,0 +1,11 @@
+{
+    "description": "for me projects",
+    "repo": "https://github.com/realsamdam/realsamdam.github.io",
+    "owner": {
+        "username": "realsamdam",
+        "email": "22115@uktc-bg.com"
+    },
+    "record": {
+        "CNAME": "realsamdam.github.io"
+    }
+}
